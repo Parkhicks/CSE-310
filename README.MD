@@ -18,4 +18,4 @@
 
 # Useful Websites
 
-* [Web Site Name](https://www.learnpython.org/en/Hello,_World!)
+* [Learn Python .org](https://www.learnpython.org/en/Hello,_World!)
