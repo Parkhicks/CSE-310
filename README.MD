@@ -8,7 +8,7 @@
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/201e416d93164a74ba00a8daedebf93f)
 
 # Development Environment
 
